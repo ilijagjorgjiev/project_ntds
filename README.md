@@ -21,5 +21,5 @@ Each part we did for the project is separated into notebooks and .py script file
   - Classification_Spectral_Decomposition(unsuccessful) folder:
     - Neural Net.ipynb,
     - Preprocessing.ipynb,
-    - Spectral Decomposition.ipynb : 
+    - Spectral Decomposition.ipynb :       
     Spammer Classification through Spectral Decompostion (Unsecfull attempt)
