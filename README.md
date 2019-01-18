@@ -13,9 +13,13 @@ Each part we did for the project is separated into notebooks and .py script file
   - DataProcessing.py :     
   Data Processing codes needed for the creation of the network for analysis.
 - __Data Visualization with Gephi__     
-  - Gephi_Notebook.ipynb : 
+  - Gephi.ipynb : 
   This notebook contains code for creation of the graph in gepx format to be extracted and shown on Gephi.
 - __Classification__
   - Classification.ipynb :
   Creation of an artifical neural network for spammer classification. (Succesful result)
-  - Neural Net.ipynb, Preprocessing.ipynb and Spectral Decomposition.ipynb : Spammer Classification through Spectral Decompostion (Unsecfull attempt)
+  - Classification_Spectral_Decomposition(unsuccessful) folder:
+    - Neural Net.ipynb,
+    - Preprocessing.ipynb,
+    - Spectral Decomposition.ipynb : 
+    Spammer Classification through Spectral Decompostion (Unsecfull attempt)
